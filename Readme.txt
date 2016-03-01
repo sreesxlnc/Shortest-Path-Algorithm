@@ -1,4 +1,4 @@
-*********************************** Single source shortest path ********************************************
+************************ Single source shortest path *****************************
 
 1) The project was created using Eclipse Luna EE. The source files are under package "pkg". 
 Hence, while executing the included jar file in Hadoop, we must incldue the package name infront of the jar file.
